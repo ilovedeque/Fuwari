@@ -11,7 +11,7 @@ lang: ''
 
 # Flow of a WSDC Debate
 
-![Flow of a WSDC Debate](/src/content/posts/debate/wsdc_briefings/flow_wsdc.png)
+![Flow of a WSDC Debate](/debate/flow_wsdc.png)
 
 :::warning
 Allowcated time for speeches can vary based on the tournament.
@@ -48,5 +48,5 @@ Time allowed for POIs can vary based on the tournament.
 
 # Credits
 
-* <a href="/AODC%20Briefing%202025.pdf" target="_blank" rel="noopener noreferrer">AODC Briefing 2025.</a>
-* <a href="/Introduction-to-World-Schools-format-guide.pdf" target="_blank" rel="noopener noreferrer">Introduction to WSDC Format (English-Speaking Union).</a>
+* <a href="/debate/AODC%20Briefing%202025.pdf" target="_blank" rel="noopener noreferrer">AODC Briefing 2025.</a>
+* <a href="/debate/Introduction-to-World-Schools-format-guide.pdf" target="_blank" rel="noopener noreferrer">Introduction to WSDC Format (English-Speaking Union).</a>
