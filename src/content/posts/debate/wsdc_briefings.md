@@ -158,7 +158,7 @@ In some tournaments, the 3rd speaker is NOT ALLOWED to include NEW arguments.
      4. **New contextual or characterisation** analysis which broaden the understanding of conclusions reached by either team.
      5. **New examples** which provide deeper understanding of the arguments being made or existing rebuttal.
 * The above-mentioned forms of responsiveness often involve new ideas, logic, examples, components of arguments or new lines of rebuttal. It is acceptable for third speakers to bring these new aspects into their speeches.
-* "Newness" in a third speech is not sufficient justification to discredit material at third. We encourage judges to think more critically about whether material meets the definition of "responsiveness" as outlined above and give credit to the argument when it does.
+* **"Newness"** in a third speech is not sufficient justification to discredit material at third. We encourage judges to think more critically about whether material meets the definition of "responsiveness" as outlined above and give credit to the argument when it does.
 
 ## Specific to Reply speaker
 
